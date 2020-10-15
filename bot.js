@@ -48,15 +48,15 @@ function aniversarios() {
                 var id = data4["DiscordID"];
                 if (id != undefined) {
                     console.log("Alguem faz anos");
-                    client.channels.cache.get("693560308236550166").send("Parabéns burro <@" + id + ">.");
-                    let canalAniversario = client.guilds.cache.first().members.resolve(id).voice.channelID;
-                    let a = client.channels.cache.get(canalAniversario);
-                    if (a != undefined) {
-                        console.log("Quem faz anos ta ON");
-                        a.join();
-                        client.voice.connections.first().play(ytdl("https://www.youtube.com/watch?v=scboWq7ZQGs", { filter: "audioonly" }));
-                        setTimeout(dc, 65000);
-                    }
+                    client.channels.cache.get("766319634684182561").send("Parabéns <@" + id + ">.");
+                    //let canalAniversario = client.guilds.cache.first().members.resolve(id).voice.channelID;
+                    //let a = client.channels.cache.get(canalAniversario);
+                    //if (a != undefined) {
+                    //    console.log("Quem faz anos ta ON");
+                    //    a.join();
+                    //    client.voice.connections.first().play(ytdl("https://www.youtube.com/watch?v=scboWq7ZQGs", { filter: "audioonly" }));
+                    //    setTimeout(dc, 65000);
+                    //}
                 }
             }
         }
