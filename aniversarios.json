@@ -1,110 +1,90 @@
 {
     "1": {
-        "0": {
-            "Nome": "",
-            "DiscordID":""
+        "19": {
+            "Nome": "Edu",
+            "DiscordID":"246659818054615041"
         }
     },
     "2": {
-        "28": {
-            "Nome": "",
-            "DiscordID":""
+        "14": {
+            "Nome": "Pizzi",
+            "DiscordID":"324643593715449866"
         }
     },
     "3": {
-        "20": {
-            "Nome": "",
-            "DiscordID":""
-        },
         "31": {
-            "Nome": "Danas",
+            "Nome": "Shelby",
             "DiscordID":"437343209723527180"
         }
     },
     "4": {
-        "0": {
-            "Nome": "",
-            "DiscordID":""
+        "26": {
+            "Nome": "Picolas",
+            "DiscordID":"534513113328910346"
         }
     },
     "5": {
-        "1": {
-            "Nome": "",
-            "DiscordID":""
-        },
-        "8": {
-            "Nome": "",
-            "DiscordID":""
-        },
-        "15": {
-            "Nome": "",
-            "DiscordID":""
+        "25": {
+            "Nome": "Noodles",
+            "DiscordID":"434818027050106885"
         }
     },
     "6": {
-        "9": {
+        "0": {
             "Nome": "",
             "DiscordID":""
         }
     },
     "7": {
-        "2": {
-            "Nome": "",
-            "DiscordID":""
+        "20": {
+            "Nome": "Saraiva",
+            "DiscordID":"344517627911077888"
+        }
+        "24": {
+            "Nome": "Skinnie",
+            "DiscordID":"185164281547980801"
+        }
+        "27": {
+            "Nome": "Cmz",
+            "DiscordID":"324645327187738625"
         }
     },
     "8": {
-        "12": {
+        "0": {
             "Nome": "",
             "DiscordID":""
         }
     },
     "9": {
-        "13": {
+        "0": {
             "Nome": "",
             "DiscordID":""
         },
-        "22": {
-            "Nome": "",
-            "DiscordID":""
-        },
-        "30": {
-            "Nome": "",
-            "DiscordID":""
-        }
     },
     "10": {
         "3": {
-            "Nome": "",
-            "DiscordID":""
+            "Nome": "Vitor",
+            "DiscordID":"395931044680826891"
+        },
+        "15": {
+            "Nome": "Salgueiro",
+            "DiscordID":"148248806100566016"
         },
         "16": {
-            "Nome": "Teste",
-            "DiscordID":"330463800488755200"
-        },
-        "31": {
-            "Nome": "",
-            "DiscordID":""
+            "Nome": "Kone",
+            "DiscordID":"406918454600400917"
         }
     },
     "11": {
-        "8": {
-            "Nome": "",
-            "DiscordID":""
+        "19": {
+            "Nome": "Poker",
+            "DiscordID":"330463800488755200"
         },
-        "11": {
-            "Nome": "",
-            "DiscordID":""
-        }
     },
     "12": {
-        "4": {
-            "Nome": "",
-            "DiscordID":""
+        "18": {
+            "Nome": "Maga",
+            "DiscordID":"531141203538870272"
         },
-        "21": {
-            "Nome": "",
-            "DiscordID":""
-        }
     }
 }
