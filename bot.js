@@ -48,7 +48,7 @@ function aniversarios() {
                 var id = data4["DiscordID"];
                 if (id != undefined) {
                     console.log("Alguem faz anos");
-                    client.channels.cache.get("766319634684182561").send("Parabéns auriverde <@" + id + ">");
+                    client.channels.cache.get("766319634684182561").send("Parabéns Auriverde :yellow_heart: :green_heart: <@" + id + ">");
                     //let canalAniversario = client.guilds.cache.first().members.resolve(id).voice.channelID;
                     //let a = client.channels.cache.get(canalAniversario);
                     //if (a != undefined) {
