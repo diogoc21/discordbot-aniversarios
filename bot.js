@@ -48,15 +48,11 @@ function aniversarios() {
                 var id = data4["DiscordID"];
                 if (id != undefined) {
                     console.log("Alguem faz anos");
-                    client.channels.cache.get("766319634684182561").send("Parabéns Auriverde :yellow_heart: :green_heart: <@" + id + ">");
-                    //let canalAniversario = client.guilds.cache.first().members.resolve(id).voice.channelID;
-                    //let a = client.channels.cache.get(canalAniversario);
-                    //if (a != undefined) {
-                    //    console.log("Quem faz anos ta ON");
-                    //    a.join();
-                    //    client.voice.connections.first().play(ytdl("https://www.youtube.com/watch?v=scboWq7ZQGs", { filter: "audioonly" }));
-                    //    setTimeout(dc, 65000);
-                    //}
+                    var id2=id.split(";");
+                    var k;
+                    for (k=0;k<id2.length;k++) {
+                        client.channels.cache.get("766319634684182561").send("Parabéns auriverde :yellow_heart: :green_heart: <@" + id2[k] + "> ");
+                    }
                 }
             }
         }
